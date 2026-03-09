@@ -2,10 +2,6 @@
 
 <img src="assets/hero-bg.jpeg" width="100%" alt="Banner"/>
 
-<br>
-
-<img src="assets/kafka-icon.png" width="80" style="border-radius:50%;" alt="Avatar"/>
-
 # { Amidst }
 
 **Cybersecurity Engineer | Red Team | DevSecOps | Educator**
@@ -63,7 +59,7 @@ Currently pursuing a Master's degree to explore the intersection of human psycho
 
 ### Tech Stack
 
-**Offensive Security**
+**Offensive Security & Forensics**
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -71,6 +67,21 @@ Currently pursuing a Master's degree to explore the intersection of human psycho
 ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-333333?style=flat-square&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-DC143C?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=flat-square&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=flat-square&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-5C2D91?style=flat-square&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=flat-square&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-FF4500?style=flat-square&logoColor=white)
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -80,14 +91,15 @@ Currently pursuing a Master's degree to explore the intersection of human psycho
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Automation & Languages**
+**Automation & Frameworks**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E34F26?style=flat-square&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
