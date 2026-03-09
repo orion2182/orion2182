@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/hero-bg.jpeg" width="100%" alt="Banner"/>
+
+<br>
+
+<img src="assets/kafka-icon.png" width="80" style="border-radius:50%;" alt="Avatar"/>
+
 # { Amidst }
 
 **Cybersecurity Engineer | Red Team | DevSecOps | Educator**
@@ -11,6 +17,12 @@
 
 ---
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### About Me
+
 Cybersecurity Engineer with a strong foundation in Red Teaming, Cloud Security, and DevSecOps. Cum Laude Computer Science graduate (3.84/4.00) with 3+ years of experience as an IT Instructor and Assistant Lecturer, teaching Artificial Intelligence, DevOps, and Cybersecurity — including Ethical Hacking, Web Security, and Digital Forensics.
 
 Founder & Ex-Lead of **Nurul Fikri Student Cybersecurity Community**, an independent peer-to-peer learning platform built to bridge the gap between academic theory and real-world security skills. Guided 150+ students through capstone projects and mentored junior students in technical skill development.
@@ -19,20 +31,33 @@ My undergraduate thesis on *"Vulnerability Analysis of Web Applications Using th
 
 Currently pursuing a Master's degree to explore the intersection of human psychology and system security, while actively building red team labs, participating in CTFs, and automating security workflows with n8n and DevOps pipelines.
 
+</td>
+<td width="35%" align="center" valign="top">
+
+<img src="assets/kafka-gif.gif" width="280" alt="Kafka"/>
+
+<br><br>
+
+<img src="assets/kafka-character.jpg" width="150" style="border-radius: 12px;" alt="Kafka Character"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### Certifications
 
-| Certification | Issuer |
-|---|---|
-| CompTIA PenTest+ | CompTIA |
-| MCRTA — Multi Cloud Red Team Analyst | CyberWarFare Labs |
-| MCBTA — Multi Cloud Blue Team Analyst | CyberWarFare Labs |
-| CCSA — Certified Cyber Security Analyst | CyberWarFare Labs |
-
-### Currently Pursuing
-
-`OSCP` `CEH` `CPTS` `CWES`
+| Certification | Issuer | Status |
+|---|---|---|
+| CompTIA PenTest+ | CompTIA | Achieved |
+| MCRTA — Multi Cloud Red Team Analyst | CyberWarFare Labs | Achieved |
+| MCBTA — Multi Cloud Blue Team Analyst | CyberWarFare Labs | Achieved |
+| CCSA — Certified Cyber Security Analyst | CyberWarFare Labs | Achieved |
+| OSCP | Offensive Security | Pursuing |
+| CEH | EC-Council | Pursuing |
+| CPTS | HackTheBox | Pursuing |
+| CWES | — | Pursuing |
 
 ---
 
